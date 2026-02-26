@@ -31,11 +31,11 @@ Please refer to instructions for your personal OS for how to install.
 
 ## Licensing / Citation
 
-Shand Beyo is published under an MIT License. Feel free to use it and to cite this Github in any research or projects.
+Shana Beti is published under an MIT License. Feel free to use it and to cite this Github in any research or projects.
 
 ## Acknolwedgements
 
-Shand Beyo is based on the design philosophy and initial key cluster separation pioneered by the Halmak layout.
+Shana Beti is based on the design philosophy and initial key cluster separation pioneered by the Halmak layout.
 
 Analysis of layout's efficiency was assisted by Google's Gemini.
 
